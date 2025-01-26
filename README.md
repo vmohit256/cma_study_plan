@@ -40,8 +40,7 @@ Move on from the module once you're feeling fairly confident that you can solve 
 
 ## Criteria of moving on from a paper
 
-Say you are working on the paper "Strategic Cost Management" (SCM). To move on to another 
-
+Say you are working on the paper "Strategic Cost Management" (SCM). To move on to another paper, you must solve at least 2 papers from [Official Model Question-Papers](https://github.com/vmohit256/cma_study_plan/blob/main/README.md#official-model-question-papers) with a score of 80% or above. Keeping grinding 💪 the modules of the paper until the score on these official model question papers go above 80%!
 
 # Resources
 

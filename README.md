@@ -72,6 +72,6 @@ Again, try to match the official exam conditions as much as possible while attem
 
 These are expendable and likely to be of lower quality than official papers above. Use them as big pools of questions to practice different modules. It is possible to simply purchase a lot of them so you never run out of practice problems to solve for any given topic.
 
-https://www.catestseries.org/Files/Syllabus/cma-final-individual-chapter-wise-unscheduled-june-2025-1733899995.pdf
-https://gmtestseries.com/cma-final-new-course-test-series-schedule
-https://www.sjcinstitute.com/products/ca-final-both-group-combo-paper-1-6-mock-test/1416281000000321985
+* https://www.catestseries.org/Files/Syllabus/cma-final-individual-chapter-wise-unscheduled-june-2025-1733899995.pdf
+* https://gmtestseries.com/cma-final-new-course-test-series-schedule
+* https://www.sjcinstitute.com/products/ca-final-both-group-combo-paper-1-6-mock-test/1416281000000321985

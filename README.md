@@ -50,7 +50,7 @@ There are total
 
 (11) + (17) + (14) + (15) + (18) + (8) + (27) + (9) = 119 modules
 
-Roughly 2-3 modules per week. Sounds reasonable. Or even 2 years at 1 module per week.
+Roughly 2-3 modules per week. Or even 2 years at 1 module per week.
 
 ## Steps for mastering a module
 

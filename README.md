@@ -5,7 +5,7 @@
 
 https://icmai.in/studentswebsite/Syl-2022-Final-Stdy-Mtrls.php
 
-Hopefully, these combined by additional resources cited in them for each topic should be enough for theory.
+Hopefully, these combined by additional resources cited in them for each topic should be enough for understanding the theory.
 
 ## Official Historical Papers
 
@@ -27,7 +27,7 @@ Again, try to match the official exam conditions as much as possible while attem
 
 ## Random Coaching Institutes Test Series
 
-These are expendable and likely to be of lower quality than official papers above. Use them as big pools of questions to practice different modules. It is possible to simply purchase a lot of them so you never run out of practice problems to solve for any given topic.
+These are expendable and likely to be of lower quality than official papers above. Use them as big pools of questions to practice different modules. It is possible to simply purchase a lot of them so you never run out of practice problems to solve for any given module.
 
 * https://www.catestseries.org/Files/Syllabus/cma-final-individual-chapter-wise-unscheduled-june-2025-1733899995.pdf
 * https://gmtestseries.com/cma-final-new-course-test-series-schedule
@@ -50,7 +50,7 @@ There are total
 
 (11) + (17) + (14) + (15) + (18) + (8) + (27) + (9) = 119 modules
 
-Roughly 2-3 modules per week. Sounds reasonable.
+Roughly 2-3 modules per week. Sounds reasonable. Or even 2 years at 1 module per week.
 
 ## Steps for mastering a module
 
@@ -76,6 +76,16 @@ Move on from the module once you're feeling fairly confident that you can solve 
 
 ## Criteria of moving on from a paper
 
-Say you are working on the paper "Strategic Cost Management" (SCM). To move on to another paper, you must solve at least 2 papers from [Official Model Question-Papers](https://github.com/vmohit256/cma_study_plan/blob/main/README.md#official-model-question-papers) with a score of 80% or above. Keeping grinding 💪 the modules of the paper until the score on these official model question papers go above 80%!
+Say you are working on the paper "Strategic Cost Management" (SCM). To move on to another paper, you must solve at least 2 papers from [Official Model Question-Papers](https://github.com/vmohit256/cma_study_plan/blob/main/README.md#official-model-question-papers) with a score of 80% or above. Keeping grinding the modules 💪 of the paper until the score on these official model question papers go above 80%!
 
+Only 50% is the passing criteria in an actual exam so getting 80% reliably on practice exams ensures high likelihood of getting >= 50% on the actual day of the exam.
+
+# Miscellaneous (but Important!) Tips
+
+The tips below are kinda cliché but extremely crucial for success. They are more important than most people realize and are easy to deprioritize in the face of looming deadlines to cover huge swaths of study material. However, not following them is likely to make the preparation punishing and cause burnout and low motivation.
+
+* follow a set routine every day. Any routine is fine as long as there is enough sleep in it!
+* eat clean and healthy food. Avoid junk food
+* incorporate physical activities in the routine. It can be any enjoyable / preferred activity. Examples: execise, running, yoga, dancing, sports (badminton, TT, tennis, etc.), swimming, etc.
+* try to find and be part of a community of motivated students
 

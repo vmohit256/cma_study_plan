@@ -22,7 +22,7 @@ Taking SCM - module 5 (Evaluating Performance) as an example.
 
 ### Go over the theory
 
-* Binge through the theory in a single day. Doesn't matter if things are unclear. It only matters if the theory is roughly present in the mind
+* Binge through the theory. Preferrably in a single day. Doesn't matter if things are unclear. It only matters if the theory is roughly present in the mind
 * Avoid looking at examples and illustrations while going through the theory
 * After a few quick passes of the theory, solve each example / illustration one by one
     - Try to solve the example without looking at the solution
@@ -30,13 +30,18 @@ Taking SCM - module 5 (Evaluating Performance) as an example.
     - Slowly uncover the solution of the example. Taking help only if you are stuck.
 * Refer to additional reading resources if the topic is too difficult to understand
 
-There are 22 illustrations in Evaluating Performance module! If 
+There are 22 illustrations in the "Evaluating Performance" module! These should be enough to get you prepared for the coaching institute test series questions.
 
-### Solve Test Series questions
+### Solve Coaching Institute Test Series questions
 
+Having gone over the theory (quickly) for a module, extract practice problems to solve from the coaching institute test serieses. Try to solve these problems without looking at the solution. It is okay to be stuck on a problem and not being able to solve it at this stage. Try a different (easier) problem if your are not able to solve the current problem. If you are really stuck, then look at the solution. But try to wrestle with a problem for at least 30 minutes before looking up its solution. Looking up the solution for a problem too early is detrimental at this stage.
 
+Move on from the module once you're feeling fairly confident that you can solve at least 80% of its questions.
 
-## Steps for mastering a section
+## Criteria of moving on from a paper
+
+Say you are working on the paper "Strategic Cost Management" (SCM). To move on to another 
+
 
 # Resources
 
@@ -52,7 +57,7 @@ https://icmai.in/studentswebsite/exam_qp_D24_2022.php
 
 suggested answers: https://icmai.in/studentswebsite/exam_suggestedanswers.php
 
-These are very important. Avoid looking at them during the prep and solve them just before taking the official exam. 
+These are very important. Avoid looking at them during the prep and solve them just before taking the official exam. Try to match the official exam conditions as much as possible while attempting these papers. Print them out and attempt them uninterrupted in a quite place during the official timings (2pm to 5pm). Grade these papers yourself using the suggested answers as a reference. This will help you understand how to structure the descriptive answers.
 
 ## Official Model Question Papers
 
@@ -60,11 +65,13 @@ https://icmai.in/studentswebsite/mqp2022_Final_Dec_2024.php
 
 https://icmai.in/studentswebsite/archive.php
 
-(these have answers too)
+These have answers too. Use them to evaluate yourself on different papers. The criteria to move to the next paper should be something like getting > 80% marks on a model question paper of the current paper. Syllabus is roughly the same for each paper over the years so it doesn't matter much which year's paper is attempted.
+
+Again, try to match the official exam conditions as much as possible while attempting these papers too. This will help to get into the habit of attempting the actual paper.
 
 ## Random Coaching Institutes Test Series
 
-
+These are expendable and likely to be of lower quality than official papers above. Use them as big pools of questions to practice different modules. It is possible to simply purchase a lot of them so you never run out of practice problems to solve for any given topic.
 
 https://www.catestseries.org/Files/Syllabus/cma-final-individual-chapter-wise-unscheduled-june-2025-1733899995.pdf
 https://gmtestseries.com/cma-final-new-course-test-series-schedule
